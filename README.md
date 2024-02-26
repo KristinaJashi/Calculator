@@ -1,1 +1,1 @@
-https://github.com/KristinaJashi/Calculator.git
+https://kristinajashi.github.io/Calculator/
